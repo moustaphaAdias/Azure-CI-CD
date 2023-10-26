@@ -1,2 +1,2 @@
-# Azure-CI-CD
-Azure CI-CD
+# PowerBI-CI-CD-using-AzureDevops
+PowerBI CI/CD using AzureDevops
